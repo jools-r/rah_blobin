@@ -394,7 +394,7 @@ class Rah_Blobin
 
         if ($out)
         {
-            $textile = new Textpattern_Textile_Parser();
+            $textile = new Textpattern\Textile\Parser();
             return $textile->TextileRestricted(implode(n, $out), 0, 0);
         }
 
