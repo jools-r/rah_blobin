@@ -2,3 +2,5 @@
 rah_blobin => Plugin cache extender
 rah_blobin_key => Public callback key
 rah_blobin_path => Path to the projects directory
+rah_blobin_sync => Sync projects directory
+rah_blobin_sync_now => Sync now
